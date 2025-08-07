@@ -19,7 +19,7 @@
 - 📄 [View My Resume](#) <!-- resume link pending -->
 - 📘 [DevOps Projects](https://github.com/mpawar006?tab=repositories)
 - 🧠 [Cheatsheets & Notes](#) <!-- Adding soon -->
-- 📚 [Blog / Medium (if any)](#)
+- 📚 [Blog / Medium]
 
 ---
 
