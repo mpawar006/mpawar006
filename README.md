@@ -23,6 +23,15 @@
 
 ---
 
+### 📘 DevOps Projects
+
+- [Project 1 Name](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
+- [Project 2 Name](https://github.com/mpawar006/website-cp1)
+- [Project 3 Name](https://github.com/mpawar006/cp1-zendrix)
+
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="left">
@@ -40,14 +49,14 @@
 
 ### 🚀 Featured Repositories
 
-- 🔧 [DevOps-Lifecycle](https://github.com/mpawar006/website-cp1)
+- 📦 [Project1-Adobe-DevOps-Lifecycle](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
+  *A comprehensive DevOps lifecycle project*
+
+- 🔧 [website-cp1](https://github.com/mpawar006/website-cp1)
   *CI/CD pipeline + Containerization + AWS deployment*
 
-- 📦 [Kubernetes Deployments](https://github.com/mpawar006/cp1-zendrix)  
+- ⚙️ [cp1-zendrix](https://github.com/mpawar006/cp1-zendrix)
   *Helm charts, Ingress, Node Affinity, Autoscaling*
-
-- 🧪 [Terraform Modules](https://github.com/mpawar006/terraform-modules)  
-  *Reusable Terraform infrastructure as code*
 
 ---
 
