@@ -17,7 +17,6 @@
 
 - 🔗 [Portfolio Website](http://mahesh-pawar.site)
 - 📄 [View My Resume](#) <!-- resume link pending -->
-- 📘 [DevOps Projects](https://github.com/mpawar006?tab=repositories)
 - 🧠 [Cheatsheets & Notes](https://github.com/mpawar006/mpawar006/blob/main/cheatsheets)
 - 📚 [Blog / Medium](#) <!-- Adding soon -->
 
@@ -25,9 +24,9 @@
 
 ### 📘 DevOps Projects
 
-- [Project 1 Name](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
-- [Project 2 Name](https://github.com/mpawar006/website-cp1)
-- [Project 3 Name](https://github.com/mpawar006/cp1-zendrix)
+- [Abode Software: CI/CD Pipeline Implementation](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
+- [Analytics Pvt Ltd: DevOps Automation Project](https://github.com/mpawar006/website-cp1)
+- [Zendrix DevOps Project](https://github.com/mpawar006/cp1-zendrix)
 
 
 ---
