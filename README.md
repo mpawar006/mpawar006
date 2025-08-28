@@ -26,7 +26,7 @@
 
 - [Abode Software: CI/CD Pipeline Implementation](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
 - [Analytics Pvt Ltd: DevOps Automation Project](https://github.com/mpawar006/website-cp1)
-- [Zendrix DevOps Project](https://github.com/mpawar006/cp1-zendrix)
+- [Zendrix DevOps Project: CI/CD Pipeline with Jenkins, Kubernetes, and Docker](https://github.com/mpawar006/cp1-zendrix)
 
 
 ---
