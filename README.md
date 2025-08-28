@@ -18,7 +18,7 @@
 - 🔗 [Portfolio Website](http://mahesh-pawar.site)
 - 📄 [View My Resume](#) <!-- resume link pending -->
 - 📘 [DevOps Projects](https://github.com/mpawar006?tab=repositories)
-- 🧠 [Cheatsheets & Notes](#) <!-- Adding soon -->
+- 🧠 [Cheatsheets & Notes](https://github.com/mpawar006/mpawar006/blob/main/cheatsheets)
 - 📚 [Blog / Medium](#) <!-- Adding soon -->
 
 ---
