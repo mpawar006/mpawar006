@@ -51,7 +51,7 @@
 - 📦 [Project1-Adobe-DevOps-Lifecycle](https://github.com/mpawar006/Project1-Adobe-DevOps-Lifecycle)
   *A comprehensive DevOps lifecycle project*
 
-- 🔧 [website-cp1](https://github.com/mpawar006/website-cp1)
+- 🔧 [website-cp2](https://github.com/mpawar006/website-cp1)
   *CI/CD pipeline + Containerization + AWS deployment*
 
 - ⚙️ [cp1-zendrix](https://github.com/mpawar006/cp1-zendrix)
