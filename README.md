@@ -15,6 +15,7 @@
 
 ### 🌐 Quick Links
 
+- 🔗 [Portfolio Website](http://mahesh-pawar.site)
 - 📄 [View My Resume](#) <!-- resume link pending -->
 - 🧠 [Cheatsheets & Notes](https://github.com/mpawar006/mpawar006/blob/main/cheatsheets)
 - 📚 [Blog / Medium](#) <!-- Adding soon -->
@@ -71,12 +72,13 @@
 ---
 
 ### 🤝 Let's Connect
- 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mpawar006/)
+
+- 📫 Email: [info@mahesh-pawar.site](mailto:info@mahesh-pawar.site)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mpawar006/)  
+- 🌐 [Portfolio](http://mahesh-pawar.site)
 
 ---
 
 ### ☕ Support My Work
 
 If you like my work, consider starring ⭐ my repositories or connecting on LinkedIn!
-
