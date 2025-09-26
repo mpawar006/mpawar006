@@ -15,7 +15,7 @@
 
 ### 🌐 Quick Links
 
-- 🔗 [Portfolio Website](adding soon...)
+- 🔗 [Portfolio Website] <!-- Adding soon -->
 - 📄 [View My Resume](#) <!-- resume link pending -->
 - 🧠 [Cheatsheets & Notes](https://github.com/mpawar006/mpawar006/blob/main/cheatsheets)
 - 📚 [Blog / Medium](#) <!-- Adding soon -->
@@ -73,9 +73,9 @@
 
 ### 🤝 Let's Connect
 
-- 📫 Email: [mahesh.devops24@gmail.com](mailto:mahesh.devops24@gmail.com)  
+- 📫 Email: [mahesh.devops24@gmail.com] <!-- Adding soon -->  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mpawar006/)  
-- 🌐 [Portfolio](adding soon...)
+- 🌐 [Portfolio] <!-- Adding soon -->
 
 ---
 
